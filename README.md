@@ -1,6 +1,6 @@
 # LeetCode_Problems
 This repository accommodates problems given on LeetCode according to their names and hashtags given.\
-And the contest too.
+And the contest too.    
 ## You can also contribute
 1-Just find the right program on leetcode.\
 2-Choose the language you did like to contribute and if that language folder is not there you are allowed to make it.\
